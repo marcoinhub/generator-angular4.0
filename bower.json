@@ -1,0 +1,20 @@
+{
+  "name": "generator-angular4.0",
+  "description": "generator for angular 4.0",
+  "main": "index.js",
+  "authors": [
+    "gao zhao peng"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "generator-angular4"
+  ],
+  "homepage": "https://github.com/marcoinhub/generator-angular4.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
